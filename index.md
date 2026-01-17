@@ -10,5 +10,6 @@ Gry komputerowe to jedno z najpopularniejszych mediów rozrywkowych na świecie.
 
 - [Gra 1: GTA V](gra1.html)
 - [Gra 2: Call OF Duty](gra2.html)
-- [Gra 3: Valorant](gra3.html)
+- [Gra 3: Valorant](gra3.md)
+
 
