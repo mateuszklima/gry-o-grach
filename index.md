@@ -8,6 +8,7 @@ Gry komputerowe to jedno z najpopularniejszych mediów rozrywkowych na świecie.
 
 ## Strony poświęcone grom w projekcie:
 
-- [Gra 1: GTA V](gra1.md)
-- [Gra 2: Call OF Duty](gra2.md)
-- [Gra 1: Valorant](gra3.md)
+- [Gra 1: GTA V](gra1.html)
+- [Gra 2: Call OF Duty](gra2.html)
+- [Gra 3: Valorant](gra3.html)
+
